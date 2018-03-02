@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context="com.example.cc.test2.Main2Activity">
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="84dp" />
 </android.support.constraint.ConstraintLayout>
